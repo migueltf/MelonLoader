@@ -118,3 +118,5 @@ See [MelonLoader Wiki](https://melonwiki.xyz/#/credits) for the full Credits.
 
 MelonLoader is not sponsored by, affiliated with or endorsed by Unity Technologies or its affiliates.  
 "Unity" is a trademark or a registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere.
+
+[![Run on Repl.it](https://repl.it/badge/github/HerpDerpinstine/MelonLoader)](https://repl.it/github/HerpDerpinstine/MelonLoader)
